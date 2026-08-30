@@ -49,3 +49,7 @@ The first actions land within the delivery window (12-24 hours), paced gradually
 ### Can I order updates to my delivery?
 
 Yes - message us on Telegram mid-delivery and we adjust the pacing.
+
+### Do you support multiple repositories in one order?
+
+Yes - the same package can be split across repositories, tracked per order.
