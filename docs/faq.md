@@ -29,3 +29,7 @@ Yes - see the aged accounts repository for 2009-2024 stock.
 ### Can I order updates to my delivery?
 
 Yes - message us on Telegram mid-delivery and we adjust the pacing.
+
+### Do you support multiple repositories in one order?
+
+Yes - the same package can be split across repositories, tracked per order.
