@@ -25,3 +25,7 @@ Yes - see the aged accounts repository for 2009-2024 stock.
 ---
 
 *More questions? The order flow, live updates and support are at buygithub.com.*
+
+### Can I order updates to my delivery?
+
+Yes - message us on Telegram mid-delivery and we adjust the pacing.
