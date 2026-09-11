@@ -45,3 +45,7 @@ Yes - custom numbers are available at the same flat price. Start small and scale
 ### When will I see the first results?
 
 The first actions land within the delivery window (12-24 hours), paced gradually.
+
+### Can I order updates to my delivery?
+
+Yes - message us on Telegram mid-delivery and we adjust the pacing.
