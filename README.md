@@ -41,7 +41,7 @@ Standard accounts for developers who need working GitHub access fast: 1-3 months
 [![Order GitHub accounts - @githubaccounts_bot](assets/banner.png)](https://t.me/githubaccounts_bot?start=readme)
 
 <p align="center">
-  <a href="https://t.me/githubaccounts_bot"><img src="https://img.shields.io/badge/Telegram-Open%20the%20bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Order on Telegram - @githubaccounts_bot"></a>
+  <a href="https://t.me/githubaccounts_bot?start=readme"><img src="https://img.shields.io/badge/Telegram-Open%20the%20bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Order on Telegram - @githubaccounts_bot"></a>
   <a href="https://buygithub.com/buy-github-accounts/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-accounts"><img src="https://img.shields.io/badge/Website-Accounts%20in%20stock-A855F7?style=for-the-badge" alt="See GitHub accounts in stock on buygithub.com"></a>
 </p>
 
