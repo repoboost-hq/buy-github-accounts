@@ -38,8 +38,23 @@ Standard accounts for developers who need working GitHub access fast: 1-3 months
 
 ## Ordering, the quality checklist and where to go next
 
-### 🤖 Ordering with the bot\n\nAccounts are bought through our Telegram bot - **[@githubaccounts_bot](https://t.me/githubaccounts_bot)**. Open it, pick a quantity, pay, and receive your accounts in under a minute. The bot runs 24/7 with live stock updates, so what you see is what is available.\n\n### 📋 What every account is checked against\n\n- **Age and warm-up** - 1-3 months old and already used naturally\n- **Profile realism** - name, photo and bio in place\n- **Clean origin** - UHQ proxies and premium mailboxes\n- **Working access** - full details delivered privately\n- **24-hour coverage** - any account that fails within a day is replaced\n\n### 🧭 Where to go next\n\n- [Aged accounts with years of real history](https://buygithub.com/old-github-accounts/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-accounts)\n- [Follower credibility from aged accounts](https://buygithub.com/buy-github-followers/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-accounts)\n- [Stars for repository visibility](https://buygithub.com/buy-github-stars/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-accounts)
+[![Order GitHub accounts - @githubaccounts_bot](assets/banner.png)](https://t.me/githubaccounts_bot)
 
+**Buying takes about a minute.** Tap the banner above, pick a quantity, pay, and the accounts arrive right there. Live stock, 24/7.
+
+| Every account is checked | |
+|---|---|
+| **Age and warm-up** | 1-3 months old, already used naturally |
+| **Profile realism** | name, photo and bio in place |
+| **Clean origin** | UHQ proxies and premium mailboxes |
+| **Working access** | full details delivered privately |
+| **Coverage** | any account that fails within 24 hours is replaced |
+
+### Where to go next
+
+- [Aged accounts with years of real history](https://buygithub.com/old-github-accounts/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-accounts)
+- [Follower credibility from aged accounts](https://buygithub.com/buy-github-followers/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-accounts)
+- [Stars for repository visibility](https://buygithub.com/buy-github-stars/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-accounts)
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1500&color=A855F7&center=true&vCenter=true&width=620&lines=Warmed+up+accounts;In+stock+daily;About+a+minute"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1500&color=A855F7&center=true&vCenter=true&width=620&lines=Warmed+up+accounts;In+stock+daily;About+a+minute" alt="Buy GitHub Accounts"></a>
