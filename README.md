@@ -38,9 +38,14 @@ Standard accounts for developers who need working GitHub access fast: 1-3 months
 
 ## Ordering, the quality checklist and where to go next
 
-[![Order GitHub accounts - @githubaccounts_bot](assets/banner.png)](https://t.me/githubaccounts_bot)
+[![Order GitHub accounts - @githubaccounts_bot](assets/banner.png)](https://t.me/githubaccounts_bot?start=readme)
 
-**Buying takes about a minute.** Tap the banner above, pick a quantity, pay, and the accounts arrive right there. Live stock, 24/7.
+<p align="center">
+  <a href="https://t.me/githubaccounts_bot"><img src="https://img.shields.io/badge/Telegram-Open%20the%20bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Order on Telegram - @githubaccounts_bot"></a>
+  <a href="https://buygithub.com/buy-github-accounts/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-accounts"><img src="https://img.shields.io/badge/Website-Accounts%20in%20stock-A855F7?style=for-the-badge" alt="See GitHub accounts in stock on buygithub.com"></a>
+</p>
+
+**How it works:** tap one of the buttons above - pick a quantity - pay - accounts arrive in about a minute. The bot runs 24/7 with live stock; the website carries the full inventory and pricing.
 
 | Every account is checked | |
 |---|---|
