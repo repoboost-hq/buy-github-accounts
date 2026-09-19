@@ -15,6 +15,11 @@
   <img src="https://img.shields.io/github/last-commit/repoboost-hq/buy-github-accounts?style=flat&color=22c55e&label=last%20commit" alt="last commit">
 </p>
 
+<p align="center">
+  <a href="https://t.me/githubaccounts_bot?start=readme"><img src="https://img.shields.io/badge/Telegram-Open%20the%20bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Order GitHub accounts on Telegram - @githubaccounts_bot"></a>
+  <a href="https://buygithub.com/buy-github-accounts/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-accounts"><img src="https://img.shields.io/badge/Website-Accounts%20in%20stock-A855F7?style=for-the-badge" alt="See GitHub accounts in stock on buygithub.com"></a>
+</p>
+
 # Buy GitHub Accounts - Warmed Up, Ready to Log In
 
 Standard accounts for developers who need working GitHub access fast: 1-3 months old, warmed up, with realistic profiles. Delivered in about a minute with a 24-hour replacement guarantee. 11,000+ in stock.
